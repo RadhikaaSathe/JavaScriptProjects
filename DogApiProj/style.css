@@ -1,0 +1,24 @@
+.card{
+    background-color: #232323;
+    width: 500px;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-left: 1.5rem;
+    margin-top: 1.2rem;
+}
+img{
+    height: 25rem;
+    width: 25rem;
+    margin-left: 50px;
+}
+button{
+    background-color: white;
+    height: 100px;
+    width: 200px;
+    border-radius: 1rem;
+    margin-left: 150px;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: large;
+    
+}
